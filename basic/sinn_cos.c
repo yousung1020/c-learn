@@ -1,7 +1,7 @@
 #include <stdio.h>
 int plus(int x, int y);
 
-int main(void) {
+int main_sin(void) {
 	int result = 0, x = 0, y = 0 ;
 	result = plus(x, y);
 	printf("%d", result);

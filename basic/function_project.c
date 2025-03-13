@@ -5,7 +5,7 @@ void showquestion(int level, int num1, int num2);
 void sucess();
 void fail();
 
-int main(void) {
+int main_wow(void) {
 
 	//문이 5개 있다고 가정하고 각 문마다 점점 어려워지는 수식 퀴즈 출제
 	srand(time(NULL));

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main_multi() {
 	// 다차원 배열 (Multidimensional Array)
 	//ex)
 	int arr4[3][3][3];

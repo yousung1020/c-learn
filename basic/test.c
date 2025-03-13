@@ -3,7 +3,7 @@
 #include <time.h>
 void big_small();
 void sort();
-int main(void) {
+int main_test(void) {
 	srand(time(NULL));
 	//int wut;
 	//int a = 0, b = 0, c = 0;

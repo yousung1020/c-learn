@@ -5,7 +5,7 @@
 
 
 
-int main_condition(void) {
+int main_condition1(void) {
 	
 /*	int age = 15;
 	if (age >= 20)

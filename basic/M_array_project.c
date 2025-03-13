@@ -15,7 +15,7 @@ void printAnimals();
 void printQuiz();
 
 
-int main(void) {
+int main_ma(void) {
 
 	srand(time(NULL));
 	initAnimalArray();

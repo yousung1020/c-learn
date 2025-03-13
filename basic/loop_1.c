@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main_loop(void) {
+int main_loop1(void) {
 
 	//반복문
 	//for(선언, 조건, 증감)

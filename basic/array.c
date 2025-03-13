@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-int main() {
+int main_array() {
 
 	// ¹è¿­
 	//int subway_array[3] ;

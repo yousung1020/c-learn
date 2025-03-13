@@ -4,7 +4,7 @@ void sub();
 void div();
 void mul();
 
-int main(void) {
+int main_calc(void) {
 	char c = 0 ;
 	int num1 = 0, num2 = 0;
 	printf("µ¡¼ÀÀº '+' »¬¼ÀÀº '-' ³ª´°¼ÀÀº '/' °ö¼ÀÀº '*' À» ÀÔ·ÂÇØÁÖ¼¼¿ä.: "); 
